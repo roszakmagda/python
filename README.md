@@ -1,4 +1,4 @@
 # python
-# python
-# python
-# python
+
+print "hello world"
+
